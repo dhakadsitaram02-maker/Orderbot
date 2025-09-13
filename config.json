@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "Logo Design", "usd": 5, "inr": 425 },
+    { "name": "Server Banner", "usd": 5, "inr": 425 },
+    { "name": "Animated Banner", "usd": 15, "inr": 1275 },
+    { "name": "Basic Server Setup", "usd": 5, "inr": 425 },
+    { "name": "Advanced Server Setup", "usd": 15, "inr": 1275 },
+    { "name": "Reaction Roles", "usd": 5, "inr": 425 },
+    { "name": "Ticket System", "usd": 5, "inr": 425 },
+    { "name": "Basic Bots Setup", "usd": 5, "inr": 425 },
+    { "name": "Custom Bot Development", "usd": 10, "inr": 850 },
+    { "name": "Order System Setup", "usd": 10, "inr": 850 },
+    { "name": "Auto Moderation System", "usd": 5, "inr": 425 },
+    { "name": "Auto Announcements", "usd": 5, "inr": 425 },
+    { "name": "Multi-language Setup", "usd": 10, "inr": 850 },
+    { "name": "Security/Anti-Spam Setup", "usd": 5, "inr": 425 }
+  ]
+}
